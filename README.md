@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently  learning on java full stack <br>great enthusiastic  in learning Machine learning Model<br>keen learner in Cyber Security and Blockchain <br> 
+**A CS undergraduate passionate about building real-world Java full-stack systems with a strong focus on cybersecurity, Machine Learning and  blockchain-based trust solutions, and practical project-driven learning.  **<br> 
 
 
 ## 🌐 Socials:
