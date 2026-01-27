@@ -1,5 +1,5 @@
 # 💫 About Me:
-**A CS undergraduate passionate about building real-world Java full-stack systems with a strong focus on cybersecurity, Machine Learning and  blockchain-based trust solutions, and practical project-driven learning.  **<br> 
+A CS undergraduate passionate about building real-world Java full-stack systems with a strong focus on cybersecurity, Machine Learning and  blockchain-based trust solutions, and practical project-driven learning.  <br> 
 
 
 ## 🌐 Socials:
