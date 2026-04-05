@@ -8,7 +8,7 @@
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=[Your+Tagline+Here];[e.g.+Full+Stack+Developer];[e.g.+Open+Source+Enthusiast]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=[[Full+Stack+Developer];[Open+Source+Enthusiast]" alt="Typing SVG" />
 </p>
 
 ---
@@ -96,21 +96,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=[your-github-username]&theme=tokyo-night&hide_border=true" />
 </p>
 
----
 
-## 🎯 Current Goals for [Year]
-
-- [ ] [Goal 1 — e.g., "Contribute to 5 open source projects"]
-- [ ] [Goal 2 — e.g., "Build and launch a SaaS product"]
-- [ ] [Goal 3 — e.g., "Learn Rust / Go / etc."]
-- [ ] [Goal 4 — e.g., "Reach X GitHub followers"]
-
----
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[your-github-username]&label=Profile+Views&color=58A6FF&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=[Devanshu-Deshmukh]&label=Profile+Views&color=58A6FF&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <i>⭐ From <a href="https://github.com/[your-github-username]">[your-github-username]</a> — Thanks for visiting!</i>
+  <i>⭐ From <a href="https://github.com/[Devanshu-Deshmukh]">[your-github-username]</a> — Thanks for visiting!</i>
 </p>
