@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devanshu Deshmukh</h1>
 <h3 align="center">A CS undergraduate passionate about building real-world Java full-stack systems with a strong focus on cybersecurity, Machine Learning and blockchain-based trust solutions, and practical project-driven learning.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devanshu-deshmukh" alt="devanshu-deshmukh" /></a> </p>
+
 
 - 🔭 I’m currently working on **JAVA_DSA**
 
